@@ -23,8 +23,13 @@ body {
 }
 
 .author {
+    padding: 5px;
     font-size: 1.75rem;
     font-weight: bold;
+}
+
+.quote {
+    padding: 15px;
 }
 
 .header {
@@ -32,6 +37,7 @@ body {
     text-align: center;
     font-size: 3rem;
     font-weight: bold;
+    padding: 5px;
 }
 
 .quote-gen {
