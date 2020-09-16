@@ -11,6 +11,7 @@ async function getQuote() {
 
 }
 
+// Listen for button clicks
 newQuoteEl.addEventListener("click", getQuote);
 
 // Grab the initial quote.
